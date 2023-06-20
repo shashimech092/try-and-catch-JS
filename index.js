@@ -1,4 +1,4 @@
-<script>
+
         function myfunction(){
          let x=document.getElementById('demo').value
          const show = document.getElementById('display')
@@ -16,4 +16,3 @@
              document.getElementById("demo").value = "";
         }
         } 
-     </script>
